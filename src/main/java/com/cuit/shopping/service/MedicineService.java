@@ -6,7 +6,7 @@ import com.cuit.shopping.mapper.MedicineMapper;
 import org.springframework.stereotype.Service;
 
 /**
- * @author 沐辰
+ * @author yinzhiyang
  */
 @Service
 public class MedicineService extends ServiceImpl<MedicineMapper, Medicine> {
