@@ -30,7 +30,7 @@ public class AdminController {
     MedicineService medicineService;
 
     /**
-     * 返回管理员主页
+     * 返回管理员
      * @return
      */
     @GetMapping("/index")
